@@ -39,10 +39,9 @@ spam-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shifa-th/Email-Spam-Detection-Machine-Learning-Model-Project-in-Python
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's actual URL.
 
 ### 2. Open the project folder
 
@@ -59,7 +58,7 @@ pip install -r requirements.txt
 ### 4. Run the application
 
 ```bash
-streamlit run "spam detection.py"
+streamlit run "spamdetection.py"
 ```
 
 The application will open in your web browser.
